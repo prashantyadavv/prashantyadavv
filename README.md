@@ -62,6 +62,14 @@
 ---
 
 ## 📊 GitHub Stats
+---
+
+## 🤝 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/prashantyadav  
+- 📧 Gmail: prashantyadav@email.com  
+
+Feel free to connect with me for collaboration, projects, or opportunities 🚀
 
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantyadav&show_icons=true&theme=dark)
 
